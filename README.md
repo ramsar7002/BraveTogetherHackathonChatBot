@@ -1,2 +1,2 @@
 # BraveTogetherChatBot
-Hackathon project - Telegram ChatBot for volunteers 
+Hackathon project - Telegram chatbot for volunteers 
